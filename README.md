@@ -12,6 +12,6 @@ npm install
 # serve with hot reload at localhost:8090
 npm start
 
-# build for production with minification
+# build for production
 npm run build
 ```
